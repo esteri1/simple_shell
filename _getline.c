@@ -52,7 +52,7 @@ int _getline(data_of_program *data)
 
 
 /**
-* check_logic_ops - checks and split for && and || operators
+* check_logic_ops - checks and split for && and || operators -
 * @array_commands: array of the commands.
 * @i: index in the array_commands to be checked
 * @array_operators: array of the logical operators for each previous command

@@ -2,7 +2,7 @@
 /**
  * execute - execute a command with its entire path variables.
  * @data: a pointer to the program's data
- * Return: If sucess returns zero, otherwise, return -1.
+ * Return: If sucess returns zero, otherwise, return, -1.
  */
 int execute(data_of_program *data)
 {

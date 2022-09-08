@@ -4,7 +4,7 @@
 * _getline - read one line from the prompt.
 * @data: struct for the program's data
 *
-* Return: reading counting bytes.
+* Return: reading counting bytes..
 */
 int _getline(data_of_program *data)
 {

@@ -112,7 +112,7 @@ int env_remove_key(char *key, data_of_program *data)
 
 
 /**
- * print_environ - prints the current environ
+ * print_environ -  prints the current environ
  * @data: struct for the program's data
  * Return: nothing
  */

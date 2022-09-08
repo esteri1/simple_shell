@@ -2,7 +2,7 @@
 
 /**
  * print_alias - add, remove or show aliases
- * @data: struct for the program's data
+ * @data: struct for the program's data.
  * @alias: name of the alias to be printed.
  * Return: zero if sucess, or other number if its declared in the arguments
  */
